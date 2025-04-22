@@ -6,7 +6,6 @@ export default function Footer() {
                     © 2025 Network Laboratory  Built by Raka Arrayan Muttaqien
                 </p>
                 <div className="flex space-x-4">
-                    {/* Tambahkan ikon atau link jika nanti dibutuhkan */}
                     <a className="text-white text-sm hover:underline">
                         Privacy
                     </a>
