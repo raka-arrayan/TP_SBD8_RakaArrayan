@@ -1,4 +1,4 @@
-import osLogo from './assets/oslogo.svg'
+import osLogo from './assets/OSlogo.svg'
 
 
 export default function os() {

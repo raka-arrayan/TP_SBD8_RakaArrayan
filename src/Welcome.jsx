@@ -1,4 +1,4 @@
-import network from './assets/network.png';
+import network from './assets/Network.png';
 
 export default function Welcome() {
   return (
