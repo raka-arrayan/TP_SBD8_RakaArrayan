@@ -1,5 +1,4 @@
-
-import sbdlogo from "./assets/sbdlogo.svg";
+import sbdlogo from "./assets/SBDlogo.svg";
 import Navbar from "./navbar";
 import DMJ from "./dmj";
 import OS from "./os";
