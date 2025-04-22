@@ -1,4 +1,4 @@
-import sbdlogo from "./assets/SBDlogo.svg";
+import SBDLogo from "./assets/SBDLogo.svg";
 import Navbar from "./navbar";
 import DMJ from "./dmj";
 import OS from "./os";
@@ -23,7 +23,7 @@ export default function App() {
       </div>
       <div id="sbd" className="min h-screen bg-customBlack text-white flex flex-col justify-center items-center">
         <div className="flex flex-col md:flex-row items-center">
-          <img src={sbdlogo} alt="sbd-logo" className="h-66 w-64" />
+          <img src={SBDLogo} alt="sbd-logo" className="h-66 w-64" />
           <div>
             <h1
               className="text-2xl  md:text-4xl font-bold text-white text-left ml-4"
